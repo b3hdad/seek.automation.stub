@@ -1,7 +1,8 @@
-### New in 0.2.2 (Released 2017/03/19)
+### New in 0.2.3 (Released 2017/04/04)
 * Fixed compile issue by adding the package System.Net.Http.Formatting.Extension
 * Updated the pact.net to 1.3
 * Updates all other packages except xUnit
+* Fixed the readme file since the diagram looked misaligned on Github
 
 ### New in 0.2.1 (Released 2016/08/31)
 * Nothing major. Only updated the readme file to add a new section called Pact + Stub
